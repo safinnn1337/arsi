@@ -1,0 +1,134 @@
+﻿
+.container {
+    
+    margin: auto;
+    font-weight: normal;
+    max-width: 960px;
+}
+
+li {
+    margin-bottom: 10px;
+    margin-right: 50px;
+}
+
+
+img {
+    border-radius: 30px;
+}
+
+body {
+    background-color: #d3d3d3;
+    
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+.text {
+    border-radius: 35px;
+    background-color: #e5ffe7 ;
+    border: 3px solid 	#FFC0CB ;
+}
+
+
+
+.h2 {
+    margin-left: 40px;
+}
+
+.li {
+    color: 			#808080;
+}
+
+
+.contact h2 {
+text-align: center;
+}
+
+
+.form label {
+    display: block;
+    font-size: 14px;
+    color: #000;
+}
+
+
+.form input, 
+.form textarea  {
+    width: 100%;
+    box-sizing: border-box;
+    border: none;
+    background: transparent;
+    border-bottom: 1px solid #ccc;
+    color: #000;
+    padding: 15px 0 10px;
+    outline: none;
+    font-family: inherit;
+
+
+}
+
+.row {
+    display: flex;
+    margin-bottom: 10px;
+
+}
+
+
+
+.sms label {
+display: block;
+font-size: 14px;
+}
+
+.sms input,  
+.sms textarea  {
+    width: 100%;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 1px solid #d3d3d3;
+    color: #000;
+    padding: 15px 0 10px;
+    outline: none;
+    font-family: inherit;
+    background: transparent;
+
+}
+
+.row1 {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+
+.row1 > .sms {
+    width: 50%;
+    margin-right: 20px;
+
+}
+
+
+
+.btn {
+    background: #000;
+    padding: 15px 20px;
+    color: white;
+    border: none;
+    font-family: inherit;
+    cursor: pointer;
+    
+}
+.btn {
+    text-align: center;
+}
+.btn:hover {
+    opacity: 0.9;
+}
+
+
+.tel {
+    text-align: center;
+}
+
+
+hr {
+    color: blue;
+}
